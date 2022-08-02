@@ -1,2 +1,2 @@
-# msg-to-bot
-web site message to telegram bot
+# site-to-bot
+sites messages senf to telegram bot
