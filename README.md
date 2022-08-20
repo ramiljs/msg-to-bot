@@ -1,2 +1,2 @@
 # site-to-bot
-sites messages senf to telegram bot
+sites messages (form messages) send to telegram bot
