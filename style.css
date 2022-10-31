@@ -1,6 +1,7 @@
 * {
   margin: 2px;
   padding: 8px;
+  box-sizing: border-box;
 }
 
 .all {
