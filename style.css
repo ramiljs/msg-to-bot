@@ -1,16 +1,16 @@
 * {
-  margin: 2px;
-  padding: 8px;
-  box-sizing: border-box;
+    margin: 2px;
+    padding: 8px;
+    box-sizing: border-box;
 }
 
 .all {
-  display: flex;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 input {
-  caret-color: rgb(255, 0, 0);
+    caret-color: rgb(255, 0, 0);
 }
